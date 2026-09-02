@@ -1,0 +1,45 @@
+# ==============================================================================
+# AI Agent Webhook Middleware - Enterprise Git Ignore
+# ==============================================================================
+
+# --- 1. Environment & Credentials (CRITICAL) ---
+.env
+.env.*
+!.env.example
+secrets/
+
+# --- 2. Python, Linters & Type Checking ---
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.tox/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# --- 3. Database & Runtime Artifacts ---
+*.sqlite
+*.sqlite3
+*.db
+*.pid
+*.log
+logs/
+
+# --- 4. IDE & Editor Configurations ---
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# --- 5. OS Generated Junk Files ---
+.DS_Store
+Thumbs.db
