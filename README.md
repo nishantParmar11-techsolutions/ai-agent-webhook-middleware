@@ -3,7 +3,8 @@
 [![CI Pipeline](https://github.com/YOUR_USERNAME/ai-agent-webhook-middleware/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ai-agent-webhook-middleware/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI Pipeline](https://github.com/nishantParmar11-techsolutions/ai-agent-webhook-middleware/actions/workflows/ci.yml/badge.svg)](https://github.com/nishantParmar11-techsolutions/ai-agent-webhook-middleware/actions/workflows/ci.yml)
+
 [![CI Pipeline](https://github.com/nishantParmar11-techsolutions/ai-agent-webhook-middleware/actions/workflows/ci.yml/badge.svg)](https://github.com/nishantParmar11-techsolutions/ai-agent-webhook-middleware/actions/workflows/ci.yml)
 
 > A production-grade, asynchronous backend microservice built with **FastAPI** and **Pydantic v2** designed to act as the secure routing and intelligence layer for automated data pipelines and AI agent workflows.
